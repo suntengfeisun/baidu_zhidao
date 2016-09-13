@@ -1,0 +1,4 @@
+/.idea
+*.pyc
+public/config.py
+config.py
